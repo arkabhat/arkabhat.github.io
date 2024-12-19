@@ -21,7 +21,7 @@ repository               : "arkabhat/arkabhat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Arka Bhattacharya"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
