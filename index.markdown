@@ -4,8 +4,8 @@
 
 layout: single
 ---
-## About
 
+## About
 Hi, my name is Arka. 
 
 I am a first year P.h.D student at Cornell Tech, where I am advised by Professors [Tom Ristenpart](https://rist.tech.cornell.edu/) and [Nicola Dell](https://www.nixdell.com/). My interests lie broadly in studying usable security and privacy issues that arise for at-risk populations.
