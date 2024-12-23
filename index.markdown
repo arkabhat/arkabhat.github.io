@@ -4,7 +4,6 @@
 
 layout: single
 ---
-## About
 
 Hi, my name is Arka. 
 
