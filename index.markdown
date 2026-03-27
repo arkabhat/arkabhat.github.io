@@ -8,12 +8,14 @@ layout: single
 
 Hi, my name is Arka. 
 
-I am a third year P.h.D student at Cornell Tech, where I am advised by Professors [Tom Ristenpart](https://rist.tech.cornell.edu/) and [Nicola Dell](https://www.nixdell.com/). My interests lie broadly in studying usable security and privacy issues that arise for at-risk populations.
+I am a third year P.h.D student at Cornell Tech, where I am advised by Professors [Tom Ristenpart](https://rist.tech.cornell.edu/) and [Nicola Dell](https://www.nixdell.com/). My interests lie broadly in studying usable security and privacy issues that arise for at-risk populations. 
+
+[CV](/assets/Bhattacharya_Arkaprabha_CV_Shareable.pdf)
 
 ## Recent Publications
 ### Inconsistent, Incomplete, and Insecure: A Survey of Account Security Interfaces
 **Arkaprabha Bhattacharya**, Alaa Daffalla, Kevin Lee, Rosanna Bellini, Nicola Dell, and Thomas Ristenpart. USENIX Security Symposium.  
-[Link](/papers/2026-ASIs.pdf)
+[Link](/assets/2026-ASIs.pdf)
 
 ### A Framework for Abusability Analysis: The Case of Passkeys in Interpersonal Threat Models  
 Alaa Daffalla, **Arkaprabha Bhattacharya**, Jacob Wilder, Rahul Chatterjee, Nicola Dell, Rosanna Bellini, Thomas Ristenpart. 34th USENIX Security Symposium. 2025.  
