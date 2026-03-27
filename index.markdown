@@ -13,7 +13,7 @@ I am a third year P.h.D student at Cornell Tech, where I am advised by Professor
 ## Recent Publications
 ### Inconsistent, Incomplete, and Insecure: A Survey of Account Security Interfaces
 **Arkaprabha Bhattacharya**, Alaa Daffalla, Kevin Lee, Rosanna Bellini, Nicola Dell, and Thomas Ristenpart. USENIX Security Symposium.  
-[Link](https://arkabhat.github.io/_papers/2026-ASIs.pdf)
+[Link](/_papers/2026-ASIs.pdf)
 
 ### A Framework for Abusability Analysis: The Case of Passkeys in Interpersonal Threat Models  
 Alaa Daffalla, **Arkaprabha Bhattacharya**, Jacob Wilder, Rahul Chatterjee, Nicola Dell, Rosanna Bellini, Thomas Ristenpart. 34th USENIX Security Symposium. 2025.  
