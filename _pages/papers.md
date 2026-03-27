@@ -3,6 +3,14 @@ layout: single
 title: Publications
 permalink: /publications/
 ---
+### Inconsistent, Incomplete, and Insecure: A Survey of Account Security Interfaces
+**Arkaprabha Bhattacharya**, Alaa Daffalla, Kevin Lee, Rosanna Bellini, Nicola Dell, and Thomas Ristenpart. USENIX Security Symposium.  
+[Link]()
+
+### A Framework for Abusability Analysis: The Case of Passkeys in Interpersonal Threat Models  
+Alaa Daffalla, **Arkaprabha Bhattacharya**, Jacob Wilder, Rahul Chatterjee, Nicola Dell, Rosanna Bellini, Thomas Ristenpart. 34th USENIX Security Symposium. 2025.  
+[Link](https://www.usenix.org/system/files/usenixsecurity25-daffalla.pdf)
+
 ### Shortchanged: Uncovering and Analyzing Intimate Partner Financial Abuse in Consumer Complaints
 **Arkaprabha Bhattacharya**, Kevin Lee, Vineeth Ravi, Jessica Staddon, and Rosanna Bellini. ACM CHI Conference on Human Factors in Computing Systems. 2024.  
 [Link](https://dl.acm.org/doi/pdf/10.1145/3613904.3642033)

@@ -38,7 +38,8 @@ plugins:
 
 include:
   - _pages
-
+  - _posts
+  
 defaults:
   # _pages
   - scope:
