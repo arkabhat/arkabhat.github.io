@@ -4,8 +4,25 @@ title: Publications
 permalink: /publications/
 ---
 ### Inconsistent, Incomplete, and Insecure: A Survey of Account Security Interfaces
-**Arkaprabha Bhattacharya**, Alaa Daffalla, Kevin Lee, Rosanna Bellini, Nicola Dell, and Thomas Ristenpart. USENIX Security Symposium.  
-[Link]()
+**Arkaprabha Bhattacharya**, Alaa Daffalla, Kevin Lee, Rosanna Bellini, Nicola Dell, and Thomas Ristenpart. 35th USENIX Security Symposium (USENIX Security 26). 2026.
+[Link](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_bhattacharya.pdf)
+
+### Evaluating Ongoing Access Attacks on the Web
+**Arkaprabha Bhattacharya**, Rosanna Bellini, Nicola Dell, and Thomas Ristenpart. In Submission, 2026
+
+### Selling the dream: How intimate insiders and identity-based attackers disrupt micro-businesses.
+Nazanin Sabri, **Arkaprabha Bhattacharya**, Sterling Williams-Ceci, D Bailey, and
+Rosanna Bellini. 35th USENIX Security Symposium (USENIX Security 26). 2026. 
+[Link](https://www.usenix.org/system/files/usenixsecurity26-sabri.pdf)
+
+### Agent meltdowns: The road to hell is paved with helpful agents.
+Rishi Jha, Harold Triedman, **Arkaprabha Bhattacharya** and Vitaly Shmatikov.
+In Submission, 2026.
+
+### "AI Watermarking": Bridging policy discourse and technical capabilities.
+Andrés Fábrega, Bhattacharya, Arkaprabha, Miranda Christ, and Sunoo Park.
+arXiv preprint arXiv:2606.28331. 2026.
+[Link](https://arxiv.org/pdf/2606.28331)
 
 ### A Framework for Abusability Analysis: The Case of Passkeys in Interpersonal Threat Models  
 Alaa Daffalla, **Arkaprabha Bhattacharya**, Jacob Wilder, Rahul Chatterjee, Nicola Dell, Rosanna Bellini, Thomas Ristenpart. 34th USENIX Security Symposium. 2025.  
