@@ -25,11 +25,11 @@ arXiv preprint arXiv:2606.28331. 2026.
 [Link](https://arxiv.org/pdf/2606.28331)
 
 ### A Framework for Abusability Analysis: The Case of Passkeys in Interpersonal Threat Models  
-Alaa Daffalla, **Arkaprabha Bhattacharya**, Jacob Wilder, Rahul Chatterjee, Nicola Dell, Rosanna Bellini, Thomas Ristenpart. 34th USENIX Security Symposium. 2025.  
+Alaa Daffalla, **Arkaprabha Bhattacharya**, Jacob Wilder, Rahul Chatterjee, Nicola Dell, Rosanna Bellini, Thomas Ristenpart. 34th USENIX Security Symposium (USENIX Security 25). 2025.  
 [Link](https://www.usenix.org/system/files/usenixsecurity25-daffalla.pdf)
 
 ### Learned, lagged, llm-splained: Llm Responses to End User Security Questions.
-Vijay Prakash, Kevin Lee, **Arkaprabha Bhattacharya**, Danny Yuxing Huang, and Jessica Staddon. 2025 Annual Computer Security Applications Conference (ACSAC).
+Vijay Prakash, Kevin Lee, **Arkaprabha Bhattacharya**, Danny Yuxing Huang, and Jessica Staddon. 2025 Annual Computer Security Applications Conference (ACSAC 2025). 2025.
 [Link](https://doi.org/10.1109/ACSAC67867.2025.00092)
 
 ### Shortchanged: Uncovering and Analyzing Intimate Partner Financial Abuse in Consumer Complaints

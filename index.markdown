@@ -18,7 +18,7 @@ I am a third year P.h.D student at Cornell Tech, where I am advised by Professor
 [Link](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_bhattacharya.pdf)
 
 
-### Selling the dream: How intimate insiders and identity-based attackers disrupt micro-businesses.
+### Selling the Dream: How Intimate Insiders and Identity-Based Attackers Disrupt Micro-businesses.
 Nazanin Sabri, **Arkaprabha Bhattacharya**, Sterling Williams-Ceci, D Bailey, and
 Rosanna Bellini. 35th USENIX Security Symposium (USENIX Security 26). 2026. 
 [Link](https://www.usenix.org/system/files/usenixsecurity26-sabri.pdf)
